@@ -1,4 +1,0 @@
-astrazeneca.net
-
-password: thisisjustatest!
-User: nouser
