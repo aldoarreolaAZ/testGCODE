@@ -1,4 +1,4 @@
-astraneca.net
+astrazeneca.net
 
 password: thisisjustatest!
 User: nouser
